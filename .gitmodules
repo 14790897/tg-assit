@@ -1,0 +1,15 @@
+[submodule "telegram-assistant-counter"]
+	path = telegram-assistant-counter
+	url = git@github.com:iamshaynez/telegram-assistant-counter.git
+[submodule "telegram-assistant"]
+	path = telegram-assistant
+	url = git@github.com:iamshaynez/telegram-assistant.git
+[submodule "telegram-assistant-llm"]
+	path = telegram-assistant-llm
+	url = git@github.com:iamshaynez/telegram-assistant-llm.git
+[submodule "telegram-assistant-zhipu"]
+	path = telegram-assistant-zhipu
+	url = git@github.com:iamshaynez/telegram-assistant-zhipu.git
+[submodule "telegram-assistant-translator"]
+	path = telegram-assistant-translator
+	url = git@github.com:iamshaynez/telegram-assistant-translator.git
